@@ -9,16 +9,16 @@ Download the software package: http://www.heise.de/ct/ftp/07/17/182
 The file is structured as follows:
 
 	[
-  	{
-    	"name": "Aaron",
-    	"gender": "male",
-    	"country": "uk"
-  	},
-  	{
-    	"name": "Aarron",
-    	"gender": "male",
-    	"country": "uk"
-  	},…
+		{
+			"name": "Aaron",
+			"gender": "male",
+			"country": "uk"
+		},
+		{
+			"name": "Aarron",
+			"gender": "male",
+			"country": "uk"
+		},…
 	]
 
 
