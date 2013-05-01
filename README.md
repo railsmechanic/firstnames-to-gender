@@ -23,6 +23,6 @@ The file is structured as follows:
 
 
 ## License
-The previously mentioned dictionary file *nam_dict.txt* - the basis for my work - was created 2007-2008 by Jörg Michael <astro*dot*joerg*at*googlemail*dot*com> and licensed under the GNU Free Documentation License.
+The previously mentioned dictionary file *nam_dict.txt* - the basis for my work - was created 2007-2008 by Jörg Michael (astro*dot*joerg*at*googlemail*dot*com) and licensed under the GNU Free Documentation License.
 
 Due to the requirements of the GNU Free Documentation License I publish my *names.json* file under the same license terms. (See LICENSE file).
