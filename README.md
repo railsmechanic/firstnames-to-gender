@@ -1,5 +1,5 @@
 # Country based gender file
-The JSON file is the 'data grounding' of the free webservice www.namesia.de, which allows you to discover the gender of a first name in a simple, RESTful way. The JSON file itself is based on the awesome *nam_dict.txt* file, created by Jörg Michael. This file was included in a software package distributed by the german IT magazine *c't*.
+The JSON file is based on the awesome *nam_dict.txt* file, created by Jörg Michael. This file was included in a software package distributed by the german IT magazine *c't*.
 
 Download the full article: https://www.heise.de/artikel-archiv/ct/2007/17/182_40-000-Namen
 
